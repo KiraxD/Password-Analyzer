@@ -1,6 +1,6 @@
 # 🔐 Password Analyzer GUI
 
-> Hack your own passwords — before someone else does
+> Hack your own passwords — before someone else does.
 > A sleek Python GUI app to check password strength with real-time feedback. Built using CustomTkinter.
 
 ---
